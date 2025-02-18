@@ -143,17 +143,6 @@ const Services = () => {
         "Testy użyteczności",
         "Optymalizacja UX"
       ]
-    },
-    {
-      icon: <FaSearch />,
-      title: "SEO & Marketing",
-      description: "Optymalizuję widoczność Twojej marki w internecie",
-      items: [
-        "Audyty SEO",
-        "Content marketing",
-        "Strategie marketingowe",
-        "Analityka internetowa"
-      ]
     }
   ];
 

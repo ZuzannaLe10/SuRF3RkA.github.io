@@ -84,7 +84,7 @@ const Footer = () => {
       <FooterContent>
         <SocialLinks>
           <SocialLink 
-            href="https://github.com/SuRF3RkA" 
+            href="https://github.com/ZuzannaLe10" 
             target="_blank" 
             rel="noopener noreferrer"
             data-aos="fade-up"
@@ -102,7 +102,7 @@ const Footer = () => {
             <FaDiscord />
           </SocialLink>
           <SocialLink 
-            href="mailto:your@email.com"
+            href="mailto:surfrkaa@gmail.com"
             data-aos="fade-up"
             data-aos-delay="200"
           >
@@ -121,7 +121,8 @@ const Footer = () => {
         
         <Copyright>
           © {currentYear} Created with <FaHeart /> by SuRF3RkA
-        </Copyright>
+        </Copyright><br></br>
+        e-mail: surfrkaa@gmail.com
       </FooterContent>
     </FooterContainer>
   );

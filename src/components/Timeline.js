@@ -141,31 +141,45 @@ const Timeline = () => {
   const events = [
     {
       date: "2021 - Obecnie",
-      title: "Technikum Informatyczne",
+      title: "Technikum Programistyczne",
       text: "Specjalizacja: Programista. Zgłębiam tajniki programowania i technologii webowych.",
       icon: <FaGraduationCap />,
       align: "left"
     },
     {
-      date: "2022",
-      title: "Pierwszy Projekt Komercyjny",
-      text: "Rozpoczęcie pracy nad rzeczywistymi projektami dla klientów. Rozwój umiejętności w React i Node.js.",
+      date: "2023",
+      title: "Pierwszy Staż Wakacyjny",
+      text: "Rozpoczęcie pracy nad projektami stron internetowych dla klientów. Rozwój umiejętności w tworzeniu stron internetowych.",
       icon: <FaLaptopCode />,
       align: "right"
     },
     {
       date: "2023",
+      title: "Pierwsze Praktyki Zawodowe",
+      text: "Praca nad aplikacją do zarządzania wydatkami. Rozwój umiejętności w React.js, Firebase, Node.js.",
+      icon: <FaLaptopCode />,
+      align: "right"
+    },
+    {
+      date: "2024",
       title: "Kwalifikacja INF.03",
       text: "Pomyślne zdanie egzaminu zawodowego z kwalifikacji INF.03. Tworzenie i administrowanie stronami internetowymi.",
+      icon: <FaTrophy/>,
+      align: "left"
+    },
+    {
+      date: "2024",
+      title: "Drugi Staż Wakacyjny",
+      text: "Praca nad aplikacją zarządzającą zamówieniami. Rozwój umiejętności w PHP, Dbeaver, SCSS.",
       icon: <FaCertificate />,
       align: "left"
     },
     {
       date: "2024",
-      title: "Konkursy i Osiągnięcia",
-      text: "Uczestnictwo w konkursach programistycznych. Rozwój portfolio i umiejętności technicznych.",
+      title: "Drugie Praktyki Zawodowe",
+      text: "Praca nad aplikacją e-learningową Eagle Weber. Rozwój umiejętności w Next.js, C#, Docker, Dbeaver.",
       icon: <FaTrophy />,
-      align: "right"
+      align: "left"
     }
   ];
 

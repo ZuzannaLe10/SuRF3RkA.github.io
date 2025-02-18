@@ -118,6 +118,7 @@ const SkillBar = styled.div`
   }
 `;
 
+
 const SkillIcon = styled.div`
   font-size: 2rem;
   color: #8A2BE2;
@@ -173,14 +174,12 @@ const About = () => {
     ],
     "Frontend Frameworks": [
       { name: "React", level: 60, icon: <FaReact /> },
-      { name: "Vue.js", level: 40, icon: <FaVuejs /> },
       { name: "Angular", level: 30, icon: <FaAngular /> },
-      { name: "Bootstrap", level: 70, icon: <FaBootstrap /> }
+      { name: "Bootstrap", level: 70, icon: <FaBootstrap />}
     ],
     "Backend & Databases": [
       { name: "PHP", level: 85, icon: <FaPhp /> },
       { name: "MySQL", level: 75, icon: <SiMysql /> },
-      { name: "FastAPI", level: 40, icon: <SiFastapi /> }
     ],
     "Programming Languages": [
       { name: "C++", level: 85, icon: <SiCplusplus /> },

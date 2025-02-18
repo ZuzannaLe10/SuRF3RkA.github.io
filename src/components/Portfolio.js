@@ -249,7 +249,7 @@ const projects = [
       { name: "DBeaver", icon: <SiDbeaver /> }
     ],
     category: "web",
-    liveLink: "https://github.com/twojuser/eagleweber"
+    liveLink: "https://github.com/ZuzannaLe10/Eagle-Weber-2.0-Frontend"
   },
   {
     title: "Expense Tracker",
@@ -260,7 +260,22 @@ const projects = [
       { name: "SCSS", icon: <FaSass /> }
     ],
     category: "web",
-    liveLink: "https://github.com/twojuser/expensetracker"
+    liveLink: "https://github.com/Krzysztof-Polec/expense-tracker/tree/zl"
+  },
+  {
+    title: "TitleShelf",
+    description: ["TitleShelf to idealne narzędzie dla miłośników książek, które pozwala na organizowanie swoich lektur w łatwy i przyjemny sposób."],
+    technologies: [
+      { name: "React", icon: <FaReact /> },
+      { name: "Firebase", icon: <SiFirebase /> },
+      { name: "SCSS", icon: <FaSass /> }
+    ],
+    live: [
+      {
+        text: "GitHub",
+        url: "https://github.com/ZuzannaLe10/TitleShelf"
+      }
+    ]
   }
 ];
 
@@ -270,7 +285,8 @@ const graphicProjects = [
     description: "Profesjonalne projekty wizytówek, logotypów i pełnej identyfikacji wizualnej dla firm",
     icon: <FaIdCard size={40} />,
     category: "business-cards",
-    images: ['wizytowka_vrentis.png'
+    images: ['wizytowka_vrentis.png',
+      'florist_wizytowka_tlo.png'
     ],
     modalDescription: "Tworzę kompleksowe projekty wizytówek dwustronnych, jednostronnych oraz całej identyfikacji wizualnej. Każdy projekt jest dopasowany do branży i potrzeb klienta, z dbałością o najdrobniejsze szczegóły i spójność wizualną."
   },
@@ -291,7 +307,10 @@ const graphicProjects = [
     description: "Projekty banerów, ulotek i materiałów promocyjnych",
     icon: <FaPencilRuler size={40} />,
     category: "gadgets",
-    images: ['vrentis_kubki.png'],
+    images: ['vrentis_kubki.png',
+      'pencil.png',
+      'kubek_kawa.png'
+    ],
     modalDescription: "Kompleksowe projektowanie materiałów reklamowych, od małych gadżetów po wielkoformatowe banery. Specjalizuję się w tworzeniu spójnych wizualnie zestawów materiałów promocyjnych, które skutecznie komunikują wartości marki."
   },
   {
@@ -299,8 +318,7 @@ const graphicProjects = [
     description: "Autorskie projekty na odzież i akcesoria",
     icon: <FaTshirt size={40} />,
     category: "clothing",
-    images: ['vrentis_koszulka.png',
-      'kawa_koszulka.png',
+    images: ['kawa_koszulka.png',
       'komandosi.png',
       'bluza_no_motivation.png',
       'bluza_drift.png'
@@ -312,7 +330,7 @@ const graphicProjects = [
     description: "Projekty banerów reklamowych, roll-upów i reklam wielkoformatowych",
     icon: <FaFlag size={40} />,
     category: "banners",
-    images: [],
+    images: ['vrentis_baner.png'],
     modalDescription: "Projektuję banery reklamowe w różnych formatach - od standardowych banerów przez roll-upy po wielkoformatowe reklamy zewnętrzne. Każdy projekt jest przygotowany z uwzględnieniem specyfikacji druku i miejsca ekspozycji."
   },
   {

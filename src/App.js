@@ -10,7 +10,6 @@ import Services from './components/Services';
 import About from './components/About';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import Stats from './components/Stats';
 import Timeline from './components/Timeline';
 import Footer from './components/Footer';
 
@@ -43,7 +42,6 @@ function App() {
         <Portfolio />
         <Timeline />
         <Services />
-        <Stats />
         <Contact />
         <Footer />
       </ContentWrapper>
