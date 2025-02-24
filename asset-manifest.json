@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SuRF3RkA.github.io/static/css/main.798ebf33.css",
-    "main.js": "/SuRF3RkA.github.io/static/js/main.0fbaa944.js",
+    "main.js": "/SuRF3RkA.github.io/static/js/main.b8a85107.js",
     "static/js/488.e9191b0b.chunk.js": "/SuRF3RkA.github.io/static/js/488.e9191b0b.chunk.js",
     "static/media/slick.svg": "/SuRF3RkA.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/SuRF3RkA.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/SuRF3RkA.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SuRF3RkA.github.io/index.html",
     "main.798ebf33.css.map": "/SuRF3RkA.github.io/static/css/main.798ebf33.css.map",
-    "main.0fbaa944.js.map": "/SuRF3RkA.github.io/static/js/main.0fbaa944.js.map",
+    "main.b8a85107.js.map": "/SuRF3RkA.github.io/static/js/main.b8a85107.js.map",
     "488.e9191b0b.chunk.js.map": "/SuRF3RkA.github.io/static/js/488.e9191b0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.798ebf33.css",
-    "static/js/main.0fbaa944.js"
+    "static/js/main.b8a85107.js"
   ]
 }
