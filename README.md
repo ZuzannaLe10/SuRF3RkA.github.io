@@ -8,7 +8,7 @@ Frontend: HTML5, CSS3, JavaScript, TypeScript – I create beautiful and respons
 
 Frameworks: React, Angular, Bootstrap – I quickly build interactive and modern apps. ⚛️📱
 
-Backend: PHP, MySQL, FastAPI – I also handle databases and backend solutions. 🔧🗄️
+Backend: PHP, MySQL – I also handle databases and backend solutions. 🔧🗄️
 
 Other: Python, Java, C++ – I'm not afraid to code in multiple languages! 🐍☕💻
 
